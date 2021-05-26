@@ -3,7 +3,7 @@ package poo_actividad5_ejercicio1;
 import java.util.Scanner;
 
 /**
- * @author Santy Reynoso
+ * @author Santiago Reynoso
  */
 public class POO_Actividad5_Ejercicio1 {
 
